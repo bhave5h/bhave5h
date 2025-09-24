@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm  Bhavesh Chawre</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+## 👋 About Me
+
+<img align="right" src="https://github.com/bhave5h/bhave5h/blob/dbefaea814cf595f2bf931063746f38e0e8a19fb/content/g.gif#gh-dark-mode-only" width="400">
+<img align="right" src="https://github.com/bhave5h/bhave5h/blob/dbefaea814cf595f2bf931063746f38e0e8a19fb/content/g.gif#gh-light-mode-only" width="400">
+
+### Hi, I'm Bhavesh 🚀  
+- I’m Bhavesh Chawre, a final-year Ai b.tech student.
+- Passionate frontend developer from India.
+- Currently learning React and creative deveopment.
+- My goal is to create aesthetic, practical, and impactful solutions.    
 
 
 ### 🧰 Languages and Tools
