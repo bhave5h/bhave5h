@@ -3,8 +3,7 @@
 <div>
 
 <h2> About Me 🗣️</h2>
-<img align="right" src="https://github.com/bhave5h/bhave5h/blob/dbefaea814cf595f2bf931063746f38e0e8a19fb/content/g.gif#gh-dark-mode-only" width="300">
-<img align="right" src="https://github.com/bhave5h/bhave5h/blob/dbefaea814cf595f2bf931063746f38e0e8a19fb/content/g.gif#gh-light-mode-only" width="300">
+<img align="right" src="https://github.com/bhave5h/bhave5h/blob/dbefaea814cf595f2bf931063746f38e0e8a19fb/content/g.gif" width="300">
 
 ### Hello 👋🏻
 - I’m **Bhavesh Chawre**, a final-year Ai b.tech student. <br>
@@ -19,10 +18,13 @@
 
 <br>
 
+#
+
 <h2>🛠 Skills and Tools</h2>  
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,jquery,bootstrap,php,mysql,tailwind,vite,vscode,sublime)](https://skillicons.dev)
 
+<hr>
 
 <h2>🤍 Socilas</h2> 
 
@@ -35,7 +37,7 @@
 </a>
 
 <a href="bhaveshchawre1@gmail.com" target="_blank"> 
-<img src="https://www.readmecodegen.com/api/social-icon?name=envelope&size=52&color=%233b82f6"/>
+<img src="https://www.readmecodegen.com/api/social-icon?name=envelope&size=50&color=%233b82f6"/>
 </a> 
 
 <a href="https://www.youtube.com/channel/UCOIqxyFw-qowC2TNqZbW8rg" target="_blank"> 
@@ -43,21 +45,16 @@
 </a> 
 
 
-<a href="https://www.linkedin.com/in/maximus-soares/" target="blank"> 
-<img src="https://www.readmecodegen.com/api/social-icon?name=telegram&size=52" alt="LinkedIn" />
+<a href="https://t.me/Bhave5h" target="_blank"> 
+<img src="https://www.readmecodegen.com/api/social-icon?name=telegram&size=50&color=%233b82f6"/>
 </a> 
 
 
-<a href="https://www.linkedin.com/in/maximus-soares/" target="blank"> 
-<img src="https://www.readmecodegen.com/api/social-icon?name=pinterest&size=52" alt="LinkedIn" />
+<a href="https://in.pinterest.com/bha4ve5h/" target="_blank"> 
+<img src="https://www.readmecodegen.com/api/social-icon?name=pinterest&size=50&color=%233b82f6"/>
 </a> 
 
-<a href="https://www.linkedin.com/in/maximus-soares/" target="blank"> 
-<img src="https://www.readmecodegen.com/api/social-icon?name=telegram&size=52" alt="LinkedIn" />
-</a> 
-
-[![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&size=58&theme=dark&color=%230044b3&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbhavesh-chawre%2F)](https://www.linkedin.com/in/bhavesh-chawre/)
-
+<hr>
 
 ### 📺 My Projects
 
