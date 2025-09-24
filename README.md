@@ -1,5 +1,7 @@
 <h1 align="center"> Hi 👋🏻, I'm  Bhavesh Chawre </h1>
 
+<div>
+
 <h2> About Me 🗣️</h2>
 <img align="right" src="https://github.com/bhave5h/bhave5h/blob/dbefaea814cf595f2bf931063746f38e0e8a19fb/content/g.gif#gh-dark-mode-only" width="300">
 <img align="right" src="https://github.com/bhave5h/bhave5h/blob/dbefaea814cf595f2bf931063746f38e0e8a19fb/content/g.gif#gh-light-mode-only" width="300">
@@ -10,13 +12,18 @@
 - Currently learning React and creative deveopment. <br>
 - My goal is to create aesthetic, Practical, and Impactful solutions.     
 
+</div>
 <br>
 
-### 🛠 Skills and Tools 
+###   -
+
+<br>
+
+<h2>🛠 Skills and Tools</h2>  
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,jquery,bootstrap,php,mysql,tailwind,vite,vscode,sublime)](https://skillicons.dev)
 
-<hr>
+
 
 ### 📺 My Projects
 
