@@ -23,7 +23,41 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,jquery,bootstrap,php,mysql,tailwind,vite,vscode,sublime)](https://skillicons.dev)
 
-<hr>
+
+<h2>🤍 Socilas</h2> 
+
+<a href="https://www.linkedin.com/in/bhavesh-chawre/" target="_blank"> 
+<img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=52&color=%233b82f6"/>
+</a> 
+
+<a href="https://www.instagram.com/bhaavesssh/" target="_blank"> 
+<img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=52&color=%233b82f6"/>
+</a>
+
+<a href="bhaveshchawre1@gmail.com" target="_blank"> 
+<img src="https://www.readmecodegen.com/api/social-icon?name=envelope&size=52&color=%233b82f6"/>
+</a> 
+
+<a href="https://www.youtube.com/channel/UCOIqxyFw-qowC2TNqZbW8rg" target="_blank"> 
+<img src="https://www.readmecodegen.com/api/social-icon?name=youtube&size=52&color=%233b82f6"/>
+</a> 
+
+
+<a href="https://www.linkedin.com/in/maximus-soares/" target="blank"> 
+<img src="https://www.readmecodegen.com/api/social-icon?name=telegram&size=52" alt="LinkedIn" />
+</a> 
+
+
+<a href="https://www.linkedin.com/in/maximus-soares/" target="blank"> 
+<img src="https://www.readmecodegen.com/api/social-icon?name=pinterest&size=52" alt="LinkedIn" />
+</a> 
+
+<a href="https://www.linkedin.com/in/maximus-soares/" target="blank"> 
+<img src="https://www.readmecodegen.com/api/social-icon?name=telegram&size=52" alt="LinkedIn" />
+</a> 
+
+[![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&size=58&theme=dark&color=%230044b3&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbhavesh-chawre%2F)](https://www.linkedin.com/in/bhavesh-chawre/)
+
 
 ### 📺 My Projects
 
@@ -33,35 +67,3 @@
 [![Why Everyone's Switching to Rust (And Why You Shouldn't)](https://ytcards.demolab.com/?id=meEXag1XCFw&title=Why+Everyone%27s+Switching+to+Rust+%28And+Why+You+Shouldn%27t%29&lang=en&timestamp=1755619274&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=884 "Why Everyone's Switching to Rust (And Why You Shouldn't)")](https://www.youtube.com/watch?v=meEXag1XCFw)
 [![AI Has Changed How We Build Software // What You Need to Know](https://ytcards.demolab.com/?id=3VQhdXcQ5qI&title=AI+Has+Changed+How+We+Build+Software+%2F%2F+What+You+Need+to+Know&lang=en&timestamp=1755026101&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1710 "AI Has Changed How We Build Software // What You Need to Know")](https://www.youtube.com/watch?v=3VQhdXcQ5qI)
 [![Everything You NEED to Know About TECH DEBT](https://ytcards.demolab.com/?id=ukgmp6uxQJc&title=Everything+You+NEED+to+Know+About+TECH+DEBT&lang=en&timestamp=1753375920&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1533 "Everything You NEED to Know About TECH DEBT")](https://www.youtube.com/watch?v=ukgmp6uxQJc)
-
-
-### 
-<hr>
-
-
-### 🤍 Socilas
-
-
-<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" href="https://www.linkedin.com/in/maximus-soares/"/>
-
-
-<h2 href="https://www.linkedin.com/in/maximus-soares/" target="blank" style="color: inherit; text-decoration: none;">
-<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</h2>
-
-<a href="https://www.linkedin.com/in/maximus-soares/" target="blank" style="color: inherit; text-decoration: none;">
-<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-
-<a href="https://www.linkedin.com/in/maximus-soares/" target="blank" style="color: inherit; text-decoration: none;">
-<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-
-
-<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" href="https://github.com/ForrestKnight?tab=overview&from=2025-09-01&to=2025-09-24" />
-
-
-
-
-
-
