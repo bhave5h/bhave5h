@@ -23,7 +23,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,jquery,bootstrap,php,mysql,tailwind,vite,vscode,sublime)](https://skillicons.dev)
 
-
+<hr>
 
 ### 📺 My Projects
 
@@ -35,37 +35,20 @@
 [![Everything You NEED to Know About TECH DEBT](https://ytcards.demolab.com/?id=ukgmp6uxQJc&title=Everything+You+NEED+to+Know+About+TECH+DEBT&lang=en&timestamp=1753375920&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1533 "Everything You NEED to Know About TECH DEBT")](https://www.youtube.com/watch?v=ukgmp6uxQJc)
 
 
-
-### 📺 My Projects
+### 
+<hr>
 
 
 ### 🤍 Socilas
 
-<a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
+<a href="https://www.linkedin.com/in/maximus-soares/" target="blank" style="color: inherit; text-decoration: none;">
 <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
-<a href="https://www.instagram.com/mhaximus.soares/" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-</a>
+<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" href="https://github.com/ForrestKnight?tab=overview&from=2025-09-01&to=2025-09-24" />
 
 
 
-### 🤍 Socials
-
-<p>
-  <a href="https://www.linkedin.com/in/maximus-soares/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" style="margin-right: 15px;"/>
-  </a>
-  
-  <a href="https://www.instagram.com/mhaximus.soares/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" style="margin-right: 15px;"/>
-  </a>
-  
-  <a href="https://github.com/bhave5h" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" style="margin-right: 15px;"/>
-  </a>
-</p>
 
 
 
