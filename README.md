@@ -41,9 +41,22 @@
 
 ### 🤍 Socilas
 
+
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" href="https://www.linkedin.com/in/maximus-soares/"/>
+
+
+<h2 href="https://www.linkedin.com/in/maximus-soares/" target="blank" style="color: inherit; text-decoration: none;">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</h2>
+
 <a href="https://www.linkedin.com/in/maximus-soares/" target="blank" style="color: inherit; text-decoration: none;">
 <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
+
+<a href="https://www.linkedin.com/in/maximus-soares/" target="blank" style="color: inherit; text-decoration: none;">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+
 
 <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" href="https://github.com/ForrestKnight?tab=overview&from=2025-09-01&to=2025-09-24" />
 
