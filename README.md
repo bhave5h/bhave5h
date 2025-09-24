@@ -2,17 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-### 🤍 Socilas
----
-
-<a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-
-<a href="https://www.instagram.com/mhaximus.soares/" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-</a>
-
 ### 🧰 Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,nodejs,figma,react&theme=dark)](https://skillicons.dev)
@@ -24,6 +13,20 @@
 <a href="https://www.instagram.com/mhaximus.soares/" target="blank">
 <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
+
+
+
+### 🤍 Socilas
+---
+
+<a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+
+<a href="https://www.instagram.com/mhaximus.soares/" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
+
 
 ### 📺 My Projects
 <!-- BEGIN YOUTUBE-CARDS -->
