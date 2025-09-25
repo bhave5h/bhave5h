@@ -9,7 +9,7 @@
 ### Hello 👋🏻
 - I’m **Bhavesh Chawre**, a final-year Ai b.tech student. <br>
 - Passionate frontend developer from India. <br>
-- Currently ilearning React and creative deveopment. <br>
+- Currently im learning React and creative deveopment. <br>
 - My goal is to create aesthetic, Practical, and Impactful solutions.     
 
 </div>
