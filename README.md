@@ -53,7 +53,8 @@
 <img src="https://www.readmecodegen.com/api/social-icon?name=telegram&size=49"/>
 </a> 
 
-<hr>
+
+<!-- <hr>
 
 <h2> 💻 My Projects </h2>
 <div align="Center">
@@ -62,7 +63,7 @@
 | ------------- | ------------- | ------------- |
 | <img src="https://i.pinimg.com/736x/ba/1d/83/ba1d8379bf219c3894e24ef3d044cf86.jpg" /> <h3>project1</h3> <a>https://www.youtube.com/</a> <p> about this Project </p> | <img src="https://i.pinimg.com/736x/ba/1d/83/ba1d8379bf219c3894e24ef3d044cf86.jpg"/>  <h3>project1</h3> <a>https://www.youtube.com/</a> <p> about this Project </p> | <img src="https://i.pinimg.com/736x/ba/1d/83/ba1d8379bf219c3894e24ef3d044cf86.jpg"/>  <h3>project1</h3> <a>https://www.youtube.com/</a> <p> about this Project </p> |
 
-</div>
+</div>  -->
 
 <br>
 <br>
