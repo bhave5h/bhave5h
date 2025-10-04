@@ -29,12 +29,13 @@
 
 <h2>🤍 Socilas </h2> 
 
-<a href="https://www.linkedin.com/in/bhavesh-chawre/" target="_blank"> 
-<img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=52&color=%233b82f6"/>
-</a> 
 
 <a href="bhaveshchawre1@gmail.com" target="_blank"> 
-<img src="https://www.readmecodegen.com/api/social-icon?name=envelope&size=50&color=%23ffffff"/>
+<img src="https://www.readmecodegen.com/api/social-icon?name=envelope&size=50&color=%23374151"/>
+</a> 
+
+<a href="https://www.linkedin.com/in/bhavesh-chawre/" target="_blank"> 
+<img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=52&color=%233b82f6"/>
 </a> 
 
 <a href="https://www.instagram.com/bhaavesssh/" target="_blank"> 
